@@ -6,7 +6,7 @@
 
 **一款打开即玩的霓虹复古坦克大战。纯 HTML5 Canvas + 原生 JavaScript，无依赖、无构建步骤、无外部素材。**
 
-[🎮 在线试玩](https://github.com/) · [🐛 反馈问题](https://github.com/)
+[🎮 在线试玩](https://yifu-xuwu.github.io/tank-battle/) · [💻 源代码](https://github.com/Yifu-xuwu/tank-battle) · [🐛 反馈问题](https://github.com/Yifu-xuwu/tank-battle/issues)
 
 </div>
 
